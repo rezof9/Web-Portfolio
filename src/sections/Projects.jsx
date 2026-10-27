@@ -2,11 +2,11 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
-    title: "Fintech Dashboard",
+    title: "Aplication Library",
     description:
       "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
     image: "/projects/project1.png",
-    tags: ["React", "Typescript", "NodeJS"],
+    tags: ["Laravel", "PHP", "CSS"],
     link: "#",
     github: "#",
   },
@@ -14,26 +14,26 @@ const projects = [
     title: "E-Commerce Platform",
     description:
       "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
-    image: "/projects/project2.png",
-    tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
+    image: "/projects/project2.jpeg",
+    tags: ["Flutter",],
     link: "#",
     github: "#",
   },
   {
-    title: "AI Writing Assistant",
+    title: "MitraKarya Digital - Website Agency UMKM",
     description:
-      "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
+      "Landing page layanan jasa digital terpadu untuk UMKM, mencakup pembuatan website, sistem informasi, dan pengembangan aplikasi mobile.",
     image: "/projects/project3.png",
-    tags: ["React", "OpenAI", "Python", "FastAPI"],
+    tags: ["PHP", "Laravel", "CSS",],
     link: "#",
     github: "#",
   },
   {
-    title: "Project Management Tool",
+    title: "Sistem Informasi Akademik (SIAKAD",
     description:
-      "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
+      "Portal mahasiswa terintegrasi untuk pengelolaan data diri, pendaftaran akademik, dan pengecekan nilai per semester.",
     image: "/projects/project4.png",
-    tags: ["Next.js", "Socket.io", "MongoDB", "Redis"],
+    tags: ["CSS", "PHP", "Laravel"],
     link: "#",
     github: "#",
   },
